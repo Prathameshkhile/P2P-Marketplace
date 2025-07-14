@@ -1,5 +1,7 @@
 Run following -
 
+npm install (In root as well as in frontend)
+
 npx hardhat node
 
 npx hardhat run .\scripts\deploy.js --network localhost
